@@ -13,3 +13,6 @@ h1{
     width: 35%;
     float: left;
 }
+.half img{
+    width: 100%;
+}
