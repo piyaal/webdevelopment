@@ -4,6 +4,11 @@ body{
 h1{
     font-size: 50px;
 }
+.half p
+{
+    font: 1em sans-serif;
+    font-size: 30px;
+}
 .lol
 {
   color: blue;  
