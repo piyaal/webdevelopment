@@ -17,6 +17,8 @@ h1{
 {
     width: 35%;
     float: left;
+    margin-left: 5%;
+    padding: auto;
 }
 .half img{
     width: 100%;
