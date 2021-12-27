@@ -1,25 +1,78 @@
 body{
+    margin: 0;
     font-family: 'Pushster', cursive;
 }
 h1{
     font-size: 50px;
 }
-.half p
-{
+.half-width p{
     font: 1em sans-serif;
-    font-size: 30px;
+    font-size: 20px;
 }
-.lol
-{
-  color: blue;  
+.sclas{
+  color: rgb(27, 231, 136);  
 }
-.half
-{
-    width: 35%;
-    float: left;
-    margin-left: 5%;
+.half-width{
+    width: 40%;
+      float: left;
+    margin-left: 10%;
     padding: auto;
 }
-.half img{
+.half-width img{
     width: 100%;
+}
+.top-banner{
+    border: 2px rgb(20, 10, 114);
+    background-image: url("img/bggg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+   
+
+}  
+section
+{
+    height: 500px;
+}
+.linkbtn
+{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(223, 219, 8, 0.911),rgba(5, 214, 179, 0.767));
+    padding: 10px 10px;
+    border-radius: 5px;
+    color: white;
+   */ font-weight: 700;*/
+}
+.half-width2{
+    width: 40%;
+      float:right;
+    margin-left: 10%;
+    padding: auto;
+}
+.half-width2 img{
+    width: 100%;
+}
+.top-banner2{
+    border: 2px rgb(20, 10, 114);
+    background-image: url("img/rainbow-pic-840688.png");
+    background-repeat: no-repeat;
+    background-position: right;
+
+}  
+.half-width2 p
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font: weight 400px;
+    color: rgba(0, 0, 0, 0.808);
+    font-style: bold;
+}
+.linkbtn2
+{
+    text-decoration: none;
+    font-weight:20px;
+    background-image: linear-gradient(rgba(16, 136, 42, 0.911),rgba(220, 241, 22, 0.767));
+    padding: 20px 20px;
+    border-radius: 5px;
+    color: white;
+   */ font-weight: 700;*/
 }
